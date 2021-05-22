@@ -6,7 +6,7 @@
 	
 	Step 1. Clone the project in your system directory.
 	
-	Step 2. After Cloning simply double click on the index.htmll and have the result and enjoy !.........
+	Step 2. After Cloning simply double click on the index.html and have the result and enjoy !.........
 
 
 
